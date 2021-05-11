@@ -1,0 +1,15 @@
+*******************************************
+***COMSOL 5.4.0.346 progress output file***
+*******************************************
+Fri May 07 10:36:45 UTC 2021
+COMSOL Multiphysics 5.4 (Build: 346) starting in batch mode
+Running: /home/src/main/Main.class
+
+/******************/
+/*****Error********/
+/******************/
+Error running java class.
+ - Detail: Security preference 'File system access' does not allow 'write' access to '/fakehome/admin0/.comsol/v54/recoveries/MPHRecovery863date_May_7_2021_10-36_AM.mph'.
+Saving model: /home/src/main/Main_Model.mph
+Save time: 0 s.
+Total time: 2 s.
